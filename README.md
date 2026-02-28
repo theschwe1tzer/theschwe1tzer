@@ -12,10 +12,9 @@ I'm currently developing a prototype for an extraction-style shooter. My main fo
 *   **Solid Foundations**: Learning to write clean, scalable C# code within the Unity ecosystem.
 
 ### 🧰 Tech Stack
-![C#](https://img.shields.io)
-![Unity](https://img.shields.io)
-![Git](https://img.shields.io)
-
+![C#]
+![Unity]
+![Git]
 ### 🌱 Currently Learning
 *   Advanced Design Patterns for Games.
 *   Multiplayer networking (for future squad-based raids).
